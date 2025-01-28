@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d898a346-9073-4ec0-9bfb-a492fc5153fe" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/pojo/recruitment/RecruitmentUserResumeMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/repository/recruitment/RecruitmentUserResumeMappingRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/aop/DebounceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/aop/DebounceAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/controller/RecruitmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/controller/RecruitmentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/pojo/recruitment/Recruitment.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/pojo/recruitment/Recruitment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/service/recruitment/IRecruitmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/service/recruitment/IRecruitmentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/service/recruitment/RecruitmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/service/recruitment/RecruitmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/pojo/common/Debounce.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/online/qms198/springboot_stu/pojo/common/Debounce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,7 +86,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SF/IdeaProjects/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SF/IdeaProjects/scoring-bank&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -303,7 +301,23 @@
       <workItem from="1737009077936" duration="5577000" />
       <workItem from="1737018419248" duration="962000" />
       <workItem from="1737083206099" duration="3054000" />
-      <workItem from="1737445278140" duration="7753000" />
+      <workItem from="1737445278140" duration="8124000" />
+      <workItem from="1737545145271" duration="86000" />
+      <workItem from="1737547615682" duration="25000" />
+      <workItem from="1737548759135" duration="563000" />
+      <workItem from="1737550938143" duration="2739000" />
+      <workItem from="1737554574523" duration="23000" />
+      <workItem from="1737598213348" duration="17000" />
+      <workItem from="1737599619300" duration="402000" />
+      <workItem from="1737607184608" duration="1051000" />
+      <workItem from="1737627682645" duration="55000" />
+      <workItem from="1737631207988" duration="635000" />
+      <workItem from="1737646554465" duration="1638000" />
+      <workItem from="1737729695879" duration="61000" />
+      <workItem from="1737859953536" duration="27000" />
+      <workItem from="1737874237584" duration="1227000" />
+      <workItem from="1737882960327" duration="8337000" />
+      <workItem from="1737939940335" duration="1293000" />
     </task>
     <servers />
   </component>
